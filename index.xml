@@ -5,8 +5,17 @@
     <description>Recent content in essence on essence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 1964 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://essence.gg/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://essence.gg/posts/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://essence.gg/posts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
@@ -16,15 +25,6 @@
       <guid>https://essence.gg/about/</guid>
       <description>&lt;p&gt;hello&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://essence.gg/posts/</link>
-      <pubDate>Wed, 01 Jan 1964 00:00:00 +0000</pubDate>
-      
-      <guid>https://essence.gg/posts/</guid>
-      <description></description>
     </item>
     
   </channel>

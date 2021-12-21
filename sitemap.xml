@@ -2,9 +2,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://essence.gg/1964/evija/</loc>
+      <loc>https://essence.gg/2021/evija/</loc>
       
-      <lastmod>1964-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://essence.gg/categories/</loc>
+      
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://essence.gg/</loc>
+      
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://essence.gg/posts/</loc>
+      
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://essence.gg/categories/topre/</loc>
+      
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -19,62 +75,6 @@
       <loc>https://essence.gg/about/</loc>
       
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://essence.gg/categories/</loc>
-      
-      <lastmod>1964-01-01T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://essence.gg/</loc>
-      
-      <lastmod>1964-01-01T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://essence.gg/categories/other/</loc>
-      
-      <lastmod>1964-01-01T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://essence.gg/posts/</loc>
-      
-      <lastmod>1964-01-01T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
